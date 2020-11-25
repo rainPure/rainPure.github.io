@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        <img src="../assets/logo.png" width="120" />
+        <img src="static/logo.png" width="120" />
 
         <h1>卿只为伊人醉</h1>
         <h2>
